@@ -6,9 +6,9 @@ Supports Live streaming from youtube
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @subinps
+(C) @kumar_manis
 Copyright permission under MIT License
-License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
+License -> https://github.com/githubMaster1-ux/MusicPlayer/blob/master/LICENSE
 
 ```
 
@@ -66,7 +66,7 @@ Fork the repo, Do not Import code.
 ```
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://github.com/githubMaster1-ux/MusicPlayer)
 
 ## Credits 
 - [Dash Eclipse's](https://github.com/dashezup) for his [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot).
